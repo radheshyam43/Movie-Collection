@@ -1,5 +1,4 @@
 # database files
-db.sqlite3
 __pycache__/
 .env
 venv/
